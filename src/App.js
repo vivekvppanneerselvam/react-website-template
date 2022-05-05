@@ -1,0 +1,21 @@
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
+import './style.css'
+import Welcome from './WelcomeClass'
+import WelcomeFunction from './WelcomeFunction'
+import Header from './header'
+import Footer from './footer';
+import Main from './main'
+function App() {
+  return (
+    <div className="App">
+      <Header />
+      <Main />
+      <Footer />
+
+    </div>
+  );
+}
+
+export default App;
