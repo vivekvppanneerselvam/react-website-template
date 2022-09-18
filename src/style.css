@@ -8,11 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
-    background: #fff;
-    color: #444;
-    font-family: "Open Sans", sans-serif;
-  }
+
   
   a {
     color: #1bb1dc;
@@ -32,8 +28,6 @@ body {
   }
   
   h1, h2, h3, h4, h5, h6 {
-    font-family: "Montserrat", sans-serif;
-    font-weight: 400;
     margin: 0 0 20px 0;
     padding: 0;
   }
@@ -97,8 +91,6 @@ body {
     font-size: 36px;
     margin: 0;
     padding: 0;
-    font-weight: 400;
-    letter-spacing: 3px;
     text-transform: uppercase;
   }
   #header .logo a {
@@ -1145,6 +1137,7 @@ body {
     padding: 0 0 30px 0;
     font-size: 14px;
     background: #fff;
+    box-shadow: 0px 0px 30px rgb(127 137 161 / 30%);
   }
   #footer .footer-top {
     padding: 60px 0 30px 0;

@@ -11,7 +11,7 @@ function Main(props) {
         <>
             <section id="hero" class="clearfix"><div class="container d-flex h-100"><div class="row justify-content-center align-self-center aos-init aos-animate"
                 data-aos="fade-up"><div class="col-lg-6 intro-info order-lg-first order-last aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
-                    <h2>JR Builders <br />India PVT. LTD <br /><span>Business!</span></h2>
+                    <h2>JR BUILDERS <br /> India PVT. LTD <br /><span>Business!</span></h2>
                     is a newly established construction firm formed by experienced professionals who are committed to highest degree of excellence,
                     professionalism and integrity—both in the delivery of services and end-products, as well as in its relationships with its various stakeholders.
                     The founders brought in a copious amount of expertise into the company,
@@ -24,7 +24,7 @@ function Main(props) {
                     <div class="container aos-init aos-animate" data-aos="fade-up">
                         <div class="row"><div class="col-lg-5 col-md-6">
                             <div class="about-img aos-init aos-animate" data-aos="fade-right" data-aos-delay="100">
-                                <img src={b2} style={{width:'100%', height:'500px'}} alt="" />
+                                <img src={b2} style={{ width: '100%', height: '500px' }} alt="" />
                             </div>
                         </div>
                             <div class="col-lg-7 col-md-6">
@@ -35,17 +35,17 @@ function Main(props) {
                                         We believe that any company is as good as its team. Our team of over 50 associate professionals from different fields as diverse as Accounts, Administration, Civil, HR, Legal, Maintenance, Purchase, R&D, Logistics, Sales and Marketing are dedicated to realizing our collective vision and mission.
                                         We don't just deliver on our promise, we deliver it in style. We acknowledge and appreciate the support we have received from our loyal customers over the years. Going forward, we seek your continued patronage in taking J.R BUILDER to the next level.</p>
                                     <ul>
-                                        <li style={{ textAlign: 'left' }} ><h4><i class="fa fa-check-circle"></i> VISION</h4> To become the most sought construction company in Northern India by delivering quality construction services to Small and Medium Enterprises segment.</li>
-                                        <li style={{ textAlign: 'left' }} ><h4><i class="fa fa-check-circle"></i> MISSION </h4>
+                                        <li  ><h4> VISION</h4> To become the most sought construction company in Northern India by delivering quality construction services to Small and Medium Enterprises segment.</li>
+                                        <li  ><h4> MISSION </h4>
                                             Our "mission" is continued business expansion in our chosen market, building long-term relationships with customers based upon the dependability of our service, on mutual trust and respect.
                                         </li>
-                                        <li style={{ textAlign: 'left' }} ><h4><i class="fa fa-check-circle"></i>  VALUES</h4>
+                                        <li  ><h4>  VALUES</h4>
                                             We are customer focused, professionally driven, technology enabled and quality oriented company engaged in creating value for our customers by delivering reliable and superior service, ably supported by our team of talented professionals. This has enabled us to create customer delight every time.
                                         </li>
-                                        <li style={{ textAlign: 'left' }} ><h4><i class="fa fa-check-circle"></i> Team</h4>
+                                        <li  ><h4> TEAM</h4>
                                             A shared sense of common purpose that transcends functional specialization and organization boundaries.</li>
 
-                                        <li style={{ textAlign: 'left' }} ><h4><i class="fa fa-check-circle"></i> Sustainability</h4>
+                                        <li  ><h4> SUSTAINABILITY</h4>
                                             We plan and act for the future - for the long-term goal to our company, our customers, and our world.</li>
 
                                     </ul>
@@ -73,32 +73,32 @@ function Main(props) {
                                 </div>
                             </div>
                             <div class="col-md-6 col-lg-4 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200">
-                                <div class="box"><div class="icon" style={{ background: "#fff0da" }}><i class="fa fa-house" style={{ color: "#e98e06" }}></i></div>
+                                <div class="box"><div class="icon" style={{ background: "#fff0da" }}><i class="fa fa-home" style={{ color: "#e98e06" }}></i></div>
                                     <h4 class="title"><a href="">Home Refurbishments</a></h4>
                                     <p class="description">Building conversions or renovation take a lot of skills, foresight and sensitivity. This applies both to the building itself and the investment aims that are resting on it. We plan and enact your vision, whilst retaining the character of the original build.
                                         Our speed and talent is unmatched in the home refurbishment services.</p></div>
                             </div>
                             <div class="col-md-6 col-lg-4 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="300">
-                                <div class="box"><div class="icon" style={{ background: "#e6fdfc" }}><i class="fa fa-sink" style={{ color: "#3fcdc7" }}></i></div>
+                                <div class="box"><div class="icon" style={{ background: "#e6fdfc" }}><i class="fa fa-bath" style={{ color: "#3fcdc7" }}></i></div>
                                     <h4 class="title"><a href="">Bathroom Remodeling</a></h4>
                                     <p class="description">Bathroom remodeling or renovation can be confusing stressful and sometimes frustrating, it needs lots of skills,
                                         foresight and expertise. We will guide you through every phase of bathroom design,
                                         helping you with modern concept installation using skilled craftsmen to produce the perfectly finished bathroom without fuss and stress. </p></div>
                             </div>
                             <div class="col-md-6 col-lg-4 wow aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100"><div class="box">
-                                <div class="icon" style={{ background: "#eafde7" }}><i class="fa fa-truck-plow" style={{ color: "#41cf2e" }}></i></div>
+                                <div class="icon" style={{ background: "#eafde7" }}><i class="fa fa-truck" style={{ color: "#41cf2e" }}></i></div>
                                 <h4 class="title"><a href="">Demolition</a>
                                 </h4><p class="description">we're also doing demolition works for old buildings with high safety measure and with low budget quick work</p>
                             </div>
                             </div>
                             <div class="col-md-6 col-lg-4 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200" >
-                                <div class=" box"><div class="icon" style={{ background: "#e1eeff" }}><i class="fa fa-compass-drafting" style={{ color: "#2282ff" }}></i>
+                                <div class=" box"><div class="icon" style={{ background: "#e1eeff" }}><i class="fa fa-compass" style={{ color: "#2282ff" }}></i>
                                 </div><h4 class="title"><a href="">Architect</a></h4>
                                     <p class="description">Planning and Architectural design for newly construction buildings. </p></div>
                             </div>
                             <div class="col-md-6 col-lg-4 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="300">
                                 <div class="box">
-                                    <div class="icon" style={{ background: "#ecebff" }}><i class="fa-solid fa-user-helmet-safety" style={{ color: "#8660fe" }}></i>
+                                    <div class="icon" style={{ background: "#ecebff" }}><i class="fa fa-users" style={{ color: "#8660fe" }}></i>
                                     </div><h4 class="title"><a href="">Labor Contract</a></h4>
                                     <p class="description">will charge the customers only on labour effort, materials can be provided or suppose to be taken care by the customer
                                         Which provide lots wishes by customers</p>
@@ -151,10 +151,10 @@ function Main(props) {
                             </div>
                             <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s" style={{ position: "absolute", left: "0px", top: "390.891px" }}>
                                 <div class="portfolio-wrap"> <img src={b4} class="img-fluid" alt="" /><div class="portfolio-info"><h4><a href="portfolio-details.html">App 3</a></h4>
-                                <p>App</p><div> <a href="assets/img/portfolio/app3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 3">
-                                    <i class="bi bi-plus"></i></a> <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a></div>
-                            </div>
-                            </div>
+                                    <p>App</p><div> <a href="assets/img/portfolio/app3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 3">
+                                        <i class="bi bi-plus"></i></a> <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a></div>
+                                </div>
+                                </div>
                             </div>
                             <div class="col-lg-4 col-md-6 portfolio-item filter-card" style={{ position: "absolute", left: "0px", top: "656.282px" }}><div class="portfolio-wrap">
                                 <img src={b1} class="img-fluid" alt="" />

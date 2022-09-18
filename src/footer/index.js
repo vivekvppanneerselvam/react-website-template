@@ -6,7 +6,7 @@ function Footer(props) {
             <div class="footer-top"><div class="container">
                 <div class="row"><div class="col-lg-6">
                     <div class="row"><div class="col-sm-6">
-                        <div class="footer-info"><h3>JR BUILDERS</h3>
+                        <div class="footer-info"><h2>JR BUILDERS</h2>
                                 <p></p></div><div class="footer-newsletter">
                             <p>JR BUILDER is a group of young and energetic engineers, planners & architects. We envisioned establishing 
                                 JR BUILDER's as the preferred choice for developing residential, commercial and industrial properties.</p>
